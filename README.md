@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning: Python
 - 💞️ I’m looking to collaborate on: I'm studying Python and starting OutSystems, so in some weeks I'll put here some projects that I'd be glad to collaborate,
 - 📫 How to reach me: 
-Github: @Latanze
-LinkediIn: https://www.linkedin.com/in/augustolatanzemendes/
-Instagram: @gulatanze
+- Github: @Latanze
+- LinkediIn: https://www.linkedin.com/in/augustolatanzemendes/
+- Instagram: @gulatanze
 
 
 
